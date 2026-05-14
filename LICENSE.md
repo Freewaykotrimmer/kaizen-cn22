@@ -1,4 +1,4 @@
-#  
+#  kaizen Scripts custom is the best kaizen Script, featuring auto-upgrade and teleport. Safe and powerful for all your needs.
 
 
 
